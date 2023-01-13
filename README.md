@@ -11,6 +11,7 @@
     - [PHP Storm]()
     - [Visual Studio Code]()
     - [Sublime Text]()
+- [Download PHP Environment Setup Guide](https://github.com/scm-developers/resources/raw/main/docs/PHP,%20Apache,%20Mysql%20download%20Updated.pptx)
 
 ### Syntax And Output
 
