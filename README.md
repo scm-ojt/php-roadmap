@@ -181,16 +181,6 @@
     - GROUP BY
     - HAVING
 
-### BLog Project
-
-- Posts
-- Categories
-- Comments
-- File Uploading
-- Social links
-- Admin Panel
-- And more...
-
 ### Regular Expressions
 
 - TODO
